@@ -1,0 +1,3 @@
+Swagger end-points:
+	Json API: /v2/api-docs
+	Swagger UI: /swagger-ui.html
